@@ -1,0 +1,17 @@
+Starting project at /Users/mrt168/Documents/working/convini_project/_daily-expo-factory/apps/2026-05-02/focus-parking
+Starting Metro Bundler
+TypeScript: The tsconfig.json#include property has been updated
+Waiting on http://localhost:8099
+Logs for your project will appear below.
+Web Bundled 2070ms node_modules/expo-router/entry.js (1303 modules)
+Web Bundled 25ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 24ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 23ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web node_modules/expo-router/entry.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 22ms node_modules/expo-router/entry.js (1 module)
+ LOG  [web] Logs will appear in the browser console

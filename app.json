@@ -34,8 +34,20 @@
       "expo-router"
     ],
     "experiments": {
-      "typedRoutes": true,
-      "baseUrl": "/expo-daily-2026-05-02-focus-parking"
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e3c2913b-2a40-4e6f-a182-432969fe7cc6"
+      }
+    },
+    "owner": "mrt168",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e3c2913b-2a40-4e6f-a182-432969fe7cc6"
     }
   }
 }
